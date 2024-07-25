@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "tw3U/Go02a0RukTURi89MPeX0cou6jjg50wewfoak3b6CsPDVH8Tq7zHvJTH7GEOaVfEBQPHxSgwDCupu4Gsqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RangchiJafarrangchiF\\Desktop\\Graph\\GraphApplication\\GraphApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql\\7.6.0\\graphql.7.6.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql-parser\\8.4.0\\graphql-parser.8.4.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.dataloader\\7.6.0\\graphql.dataloader.7.6.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.memorycache\\7.6.0\\graphql.memorycache.7.6.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.microsoftdi\\7.6.0\\graphql.microsoftdi.7.6.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.server.all\\7.7.1\\graphql.server.all.7.7.1.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.server.transports.aspnetcore\\7.7.1\\graphql.server.transports.aspnetcore.7.7.1.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.server.ui.altair\\7.7.1\\graphql.server.ui.altair.7.7.1.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.server.ui.graphiql\\7.7.1\\graphql.server.ui.graphiql.7.7.1.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.server.ui.playground\\7.7.1\\graphql.server.ui.playground.7.7.1.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.server.ui.voyager\\7.7.1\\graphql.server.ui.voyager.7.7.1.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\graphql.systemtextjson\\7.6.0\\graphql.systemtextjson.7.6.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.0\\microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.0\\microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\RangchiJafarrangchiF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
